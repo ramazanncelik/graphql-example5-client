@@ -1,0 +1,10 @@
+.headerMenu {
+    background: none;
+    border: none;
+    margin-bottom: 5px;
+}
+
+.menuItem {
+    font-weight: bold;
+    font-size: 16px;
+}

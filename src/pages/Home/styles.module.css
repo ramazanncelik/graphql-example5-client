@@ -1,0 +1,36 @@
+.content {
+    height: auto;
+    padding: 10px;
+}
+
+.event {
+    width: 98%;
+    padding: 1%;
+    border: solid 2px #e0d4d4;
+    margin: 2%;
+    border-radius: 5px;
+    display: grid;
+}
+
+.eventHeader{
+    display: flex;
+}
+
+.eventTitle {
+    flex: 1;
+    font-weight: bold;
+    font-size: 16px;
+    color: black;
+}
+
+.eventDescription {
+    font-size: 14px;
+    color: #777;
+}
+
+.eventDate {
+    width: auto;
+    font-size: 14px;
+    color: #777;
+    margin-left: 10px;
+}
